@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bhaskarasp/todo-app.git
+   git clone https://github.com/bhaskarasp/to-do
    ```
    Navigate to the project directory:
 
