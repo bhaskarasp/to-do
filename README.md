@@ -11,7 +11,7 @@ This is a simple To-Do application built using HTML, CSS, and JavaScript. It all
 
 ## Live Demo
 
-You can view the live version of the To-Do app at: [your-todo-app-link.com](http://your-todo-app-link.com)
+You can view the live version of the To-Do app at: [https://bhaskarasp.github.io/to-do/](https://bhaskarasp.github.io/to-do/)
 
 ## Getting Started
 
