@@ -1,0 +1,38 @@
+# To-Do App
+
+This is a simple To-Do application built using HTML, CSS, and JavaScript. It allows users to add, remove, and mark tasks as completed.
+
+## Features
+
+- Add new tasks
+- Remove tasks
+- Mark tasks as completed
+- Simple and user-friendly interface
+
+## Live Demo
+
+You can view the live version of the To-Do app at: [your-todo-app-link.com](http://your-todo-app-link.com)
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/bhaskarasp/todo-app.git
+   ```
+   Navigate to the project directory:
+
+    ```bash
+
+   cd todo-app
+    ```
+    
+ Open index.html in your browser.
+
+Technologies Used
+
+  - HTML
+  - CSS
+  - JavaScript
+
