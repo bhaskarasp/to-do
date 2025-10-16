@@ -9,6 +9,13 @@ This is a simple To-Do application built using HTML, CSS, and JavaScript. It all
 - Mark tasks as completed
 - Simple and user-friendly interface
 
+### Technologies Used
+
+  - HTML
+  - CSS
+  - JavaScript
+
+
 ## Live Demo
 
 You can view the live version of the To-Do app at: [https://bhaskarasp.github.io/to-do/](https://bhaskarasp.github.io/to-do/)
@@ -29,10 +36,7 @@ To run this project locally, follow these steps:
     ```
     
  Open index.html in your browser.
+ You can now see the output
 
-Technologies Used
 
-  - HTML
-  - CSS
-  - JavaScript
-
+ 
