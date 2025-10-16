@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
     ```
     
  Open index.html in your browser.
- You can now see the output
+ You can now see the output.
 
 
  
