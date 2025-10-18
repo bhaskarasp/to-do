@@ -34,8 +34,7 @@ To run this project locally, follow these steps:
    cd todo-app
    ```
     
- Open index.html in your browser.
- You can now see the output.
+3. Open index.html in your browser. You can now see the output.
 
 
  
