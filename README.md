@@ -28,12 +28,11 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/bhaskarasp/to-do
    ```
-   Navigate to the project directory:
+2. Navigate to the project directory:
 
-    ```bash
-
+   ```bash
    cd todo-app
-    ```
+   ```
     
  Open index.html in your browser.
  You can now see the output.
